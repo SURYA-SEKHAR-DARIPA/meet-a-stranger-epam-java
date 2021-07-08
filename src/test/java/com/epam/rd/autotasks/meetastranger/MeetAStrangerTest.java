@@ -40,7 +40,7 @@ public class MeetAStrangerTest {
         return Stream.of(
                 Arguments.of("Hello, Stranger", "Stranger"),
                 Arguments.of("Hello, Mister Stranger", "Mister Stranger"),
-                Arguments.of("Hello, Ivanov Ivan Ivanovich", "Ivanov Ivan Ivanovich")
+                Arguments.of("Hello, Robert Downey Jr", "Ivanov Ivan Ivanovich")
         );
     }
 }
