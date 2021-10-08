@@ -1,8 +1,11 @@
 # Meet a stranger
 
-The program asks for an input string and prints the message in the "Hello, *input string*" format.
+The purpose of this exercise is to familiarize you with basic usage of standard input stream.
 
-To complete the task, you need to go to the class [MeetAStranger](src/main/java/com/epam/rd/autotasks/meetastranger/MeetAStranger.java). 
-The program should receive a string read from System.in as input and display a message "Hello, *input string*".
+Estimated workload of this exercise is _5 minutes_.
 
-It is guaranteed that when entering a string consisting of several words, the entire string will be output.
+### Description
+Please, proceed to the class [MeetAStranger](src/main/java/com/epam/rd/autotasks/meetastranger/MeetAStranger.java).
+The program must read a string from System.in and print a message "Hello, *input*".
+
+Note that when entering an input string consisting of several words, the entire input must be printed.
