@@ -9,3 +9,12 @@ Please, proceed to the class [MeetAStranger](src/main/java/com/epam/rd/autotasks
 The program must read a string from System.in and print a message "Hello, *input*".
 
 Note that when entering an input string consisting of several words, the entire input must be printed.
+
+### Example
+
+---
+Input: `Mrs. Robinson`
+
+Output: `Hello, Mrs. Robinson`
+
+---
